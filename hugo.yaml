@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://Shivangkus.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Shivang's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Shivangkus/Shivang-portfolio.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -144,7 +144,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
